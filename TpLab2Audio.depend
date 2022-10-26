@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574940548 source:c:\users\usuario\desktop\tecnicatura universitaria en programacion\2do cuatrimestre\programacion ii\tp final audio\tplab2audio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1574940548 source:c:\users\pc\desktop\tecnicatura universitaria en programacion\2do cuatrimestre\programacion ii\tp final audio\tplab2audio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
